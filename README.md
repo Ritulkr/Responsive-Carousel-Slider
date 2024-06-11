@@ -13,13 +13,13 @@ This project is a fully responsive carousel slider built with HTML, CSS, and Jav
 
 ## Demo
 
-![Carousel Slider Demo]<img src="./image/Thumbnail.png">
+![Carousel Slider Demo](./image/Thumbnail.png)
 
 ## Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/carousel-slider.git
+    git clone https://github.com/Ritulkr/carousel-slider.git
     ```
 
 2. **Navigate to the project directory:**
@@ -57,4 +57,3 @@ If you'd like to contribute to this project, please fork the repository and subm
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
